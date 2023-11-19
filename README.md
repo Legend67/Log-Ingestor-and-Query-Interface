@@ -21,7 +21,7 @@ pip install flask
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Legend67/Log-Ingestor-and-Query-Interface.git
 cd log-ingestor
 ```
 
