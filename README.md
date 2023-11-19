@@ -29,7 +29,6 @@ cd Log-Ingestor-and-Query-Interface
 Execute the following command to run the Flask application:
 
 ```bash
-Copy code
 python log_ingestor.py
 ```
 The application will run on http://127.0.0.1:3000/.
